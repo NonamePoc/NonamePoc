@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving your skills<br>🌱 I’m currently learning<br>💬 Ask me about: c#,db,jquery,js<br>⚡ Fun fact, i have been programming actively for only 1 year and have achieved success
+🔭I am currently working on upgrading my skills.<br>🌱 I’m currently learning<br>💬 Ask me about: c#,db,jquery,js<br>⚡ Fun fact, i have been programming actively for only 1 year and have achieved success
 
 
 ## 🌐 Socials:
