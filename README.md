@@ -1,6 +1,8 @@
 ![0kn3DH](https://github.com/NonamePoc/NonamePoc/assets/71962787/dca50713-91ef-494c-b7b7-3898f3012d32)
 
-**Stack:**
+![GitHub](https://github.com/favicon.ico) GitHub
+
+**Стек:**
 
 *  .NET: :net:
 *  Angular: :angular:
