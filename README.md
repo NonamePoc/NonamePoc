@@ -4,10 +4,10 @@
 
 **Stack:**
 
-*  .NET: :net:
-*  Angular: :angular:
-* TypeScript: :typescript:
-*  Docker: :docker:
+*  .NET: :octocat:
+*  Angular: :zap:
+*  TypeScript: :hammer:
+*  Docker: :whale:
 *  PostgreSQL: :elephant:
 *  MS SQL: :database:
 *  Microservices: :microscope:
