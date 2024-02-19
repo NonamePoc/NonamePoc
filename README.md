@@ -9,5 +9,5 @@
 *  TypeScript: :hammer:
 *  Docker: :whale:
 *  PostgreSQL: :elephant:
-*  MS SQL: :database:
+*  MS SQL: :elephant:
 *  Microservices: :microscope:
